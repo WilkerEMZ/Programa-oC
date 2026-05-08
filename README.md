@@ -1,12 +1,12 @@
-# Olá, Mundo! em C.
+# Hello World in C
 
-Programa simples desenvolvido em C para demonstrar a estrutura básica de uma aplicação utilizando a linguagem.
+Simple program developed in C to demonstrate the basic structure of an application using the language.
 
-## Objetivo
+## Objective
 
-Este projeto tem como finalidade praticar conceitos fundamentais da linguagem C, incluindo:
+This project aims to practice fundamental concepts of the C programming language, including:
 
-- Estrutura básica de um programa
-- Utilização de bibliotecas padrão
-- Compilação com GCC
-- Saída de dados no terminal
+- Basic program structure
+- Usage of standard libraries
+- Compilation using GCC
+- Terminal output
